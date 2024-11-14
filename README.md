@@ -1,1 +1,1 @@
-# TareasSynergy
+# TareasSinergy
