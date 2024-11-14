@@ -10,12 +10,7 @@ Nos ubicamos en la carpeta SinergyCrudClientes y creamos un documento llamado:
 .htaccess
 y copeamos la siguiente informacion: 
 
-Options All -Indexes
-Options -MultiViews
-RewriteEngine on
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
+<img width="418" alt="image" src="https://github.com/user-attachments/assets/8f3186c2-1cc4-46fb-903a-95bdb1896596">
 
 
 Luego de esto copeamos lo siguiente en el navegador para probar el sistema:
